@@ -1,0 +1,7 @@
+allow_images=true
+allow_markup=true
+width=500
+dynamic_lines=true
+term=wezterm
+insensitive=true
+layer=overlay

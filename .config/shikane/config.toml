@@ -1,0 +1,14 @@
+[[profile]]
+name = "home"
+exec = ["notify-send shikane \"Profile $SHIKANE_PROFILE_NAME has been applied\""]
+    [[profile.output]]
+    search = "DP-1"
+    enable = true
+    mode = "1920x1080@120Hz"
+    position = "7788,0"
+
+    [[profile.output]]
+    search  = "eDP-2"
+    enable = true
+    mode = "2560x1440@165Hz"
+    position = "5228,0"
